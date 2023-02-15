@@ -11,6 +11,6 @@ Repositório que contém os trabalhos da UC 'Processamento de Linguagens'.
 
 ## Curso e Universidade
 
-Licenciatura em Engenharia Informática
+**Licenciatura em Engenharia Informática**
 
-Universidade do Minho (2022/2023)
+**Universidade do Minho (2022/2023)**

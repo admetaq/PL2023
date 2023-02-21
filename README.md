@@ -1,7 +1,7 @@
 
 # Processamento de Linguagens - TPC
 
-Repositório que contém os trabalhos da UC 'Processamento de Linguagens'.
+Repositório que contém os trabalhos de casa da UC 'Processamento de Linguagens'.
 
 
 ## Autor

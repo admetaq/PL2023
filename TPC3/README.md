@@ -1,1 +1,3 @@
 #TPC3
+
+Contém um ficheiro jupyter notebook com as respostas às perguntas do trabalho de casa. Quatro ficheiros python(tpc3(a|b|c|d).py) , também com as respostas às alíneas do TPC. Outro ficheiro python("menu.py") que possui funções que imprimem distribuições. Por fim, tem o dataset original("processos.txt") e outro dataset("processos.json"), que contém todas as entradas válidas entre as 20 primeiras entradas do dataset anterior, em formato JSON.

@@ -38,8 +38,10 @@ def applyFunction(funcName, value):
         return unique(value)
     elif funcName == "prod":
         return math.prod(value)
+    elif funcName == "reversed":
+    	return list(reversed(value))
     
-    if funcName in  ["sum", "min", "max", "len", "sorted", "reversed"]:
+    if funcName in  ["sum", "min", "max", "len", "sorted"]:
         function = getattr(__builtins__, funcName)
         return function(value)
    
